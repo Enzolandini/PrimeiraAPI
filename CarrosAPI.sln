@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarrosAPI", "CarrosAPI.csproj", "{AAD3D81A-3051-4499-BD76-D83298344639}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD3D81A-3051-4499-BD76-D83298344639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD3D81A-3051-4499-BD76-D83298344639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD3D81A-3051-4499-BD76-D83298344639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD3D81A-3051-4499-BD76-D83298344639}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC25C005-1CE2-4AB1-A453-90C4F6A2708A}
+	EndGlobalSection
+EndGlobal
